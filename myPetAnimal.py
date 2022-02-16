@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Coded By : DJ_Dark_Cyber
 
 from email.headerregistry import ParameterizedMIMEHeader
 import random
