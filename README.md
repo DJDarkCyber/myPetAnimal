@@ -4,7 +4,7 @@ Just a small and funny game
 
 # Getting Started
 
-+ Cloning gaming from github
++ Cloning game from github
 
 `git clone https://github.com/DJDarkCyber/myPetAnimal.git`
 
